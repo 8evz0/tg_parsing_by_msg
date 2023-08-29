@@ -10,4 +10,4 @@ Preparing to use this tools:
 
 Example:
 
-![demo](https://github.com/8evz0/tg_parsing_by_msg/assets/65715287/2e0bbb24-a337-4e27-93e3-1c59ec4f6cfc)
+![demo](https://github.com/8evz0/tg_parsing_by_msg/assets/65715287/ab997428-50c0-4828-81aa-83d139fad505)
