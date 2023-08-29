@@ -1,5 +1,5 @@
 # tg_parsing_by_msg
-The simplest implementation of a parser of data about users who have sent at least one message to the chat room. 
+The simplest implementation of a Telegram parser of data about users who have sent at least one message to the chat room. 
 
 Preparing to use this tools:
   1. python -m venv myenv
